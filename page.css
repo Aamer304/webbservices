@@ -1,0 +1,68 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+
+
+
+.container-fluid{
+  height: 48px;
+  padding: 2px 10px;
+}
+ul a{
+    color: aqua;
+}
+.large-text{
+    font-size: 58px;
+    margin: 20px;
+    color: darkgoldenrod;
+}
+p{
+    text-transform: capitalize;
+    font-size: 20px;
+    padding-bottom: 50px;
+    
+
+}
+.like_button{
+    border: none;
+    box-shadow: 5px 5px 10pt grey;
+margin:20px;}
+.pic{
+    height: 500px;
+    width: 500px;
+    
+}
+h1{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+
+
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:25px;
+}
+.main{
+    background-color: aqua;
+}
+
+.card_colour{
+    background-color: aquamarine;
+}
+.ot{
+    background-color: blue;
+
+}
+.hyt{
+    background-color: gray;
+}
+
+.hyd:hover{
+
+}
